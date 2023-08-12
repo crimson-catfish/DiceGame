@@ -1,0 +1,15 @@
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\bin\Debug\net7.0\CSharpSandBox.exe
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\bin\Debug\net7.0\CSharpSandBox.deps.json
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\bin\Debug\net7.0\CSharpSandBox.runtimeconfig.json
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\bin\Debug\net7.0\CSharpSandBox.dll
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\bin\Debug\net7.0\CSharpSandBox.pdb
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.csproj.AssemblyReference.cache
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.AssemblyInfoInputs.cache
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.AssemblyInfo.cs
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.csproj.CoreCompileInputs.cache
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.dll
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\refint\CSharpSandBox.dll
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.pdb
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\CSharpSandBox.genruntimeconfig.cache
+C:\Users\sava_\OneDrive\Документы\VSCodeProjects\Learn\Summer2023\CSharpSandBox\obj\Debug\net7.0\ref\CSharpSandBox.dll
